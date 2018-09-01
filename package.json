@@ -1,0 +1,27 @@
+{
+  "name": "typescript_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "inversify": "^4.13.0",
+    "inversify-restify-utils": "^3.4.0",
+    "reflect-metadata": "^0.1.12",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.8",
+    "@types/node": "^10.9.4",
+    "@types/restify": "^7.2.4",
+    "jasmine": "^3.2.0",
+    "jasmine-ts-console-reporter": "^3.1.1",
+    "tslint": "^5.11.0"
+  }
+}
